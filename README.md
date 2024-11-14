@@ -1,6 +1,6 @@
 # Born Equal. Treated unequally.
 
-By (Paula Pereda Suárez)[https://paulapereda.com/]
+By [Paula Pereda Suárez](https://paulapereda.com/)
 
 Women in Uruguay are born in equal numbers to men. Girls do better at school and are more likely to progress to university, yet this advantage seems to evaporate in later life.
 
