@@ -1,4 +1,4 @@
-# Born the Same, Treated Differently.
+# Born the Same. Treated Differently.
 
 By [Paula Pereda Suárez](https://paulapereda.com/)
 
@@ -6,9 +6,9 @@ Women are born in Uruguay in equal numbers to men. Although girls do better at s
 
 Somewhere along the line, women started being treated unequally. This is evidenced in all facets of Uruguay’s professional landscape.
 
-This Quarto + Closeread project explores the representation of women in Uruguay’s economic, cultural, and political spheres, aiming to shed light on the challenges we face.
+This Quarto + Closeread initiative examines how women are represented within Uruguay’s economic, cultural, and political realms, with the goal of highlighting the challenges we encounter.
 
-## Nacimos iguales, Nos tratan distinto.
+## Nacimos iguales. Nos tratan distinto.
 
 Las mujeres nacen en Uruguay en igual número que los hombres. Aunque las niñas obtienen mejores resultados en la escuela y tienen más probabilidades de acceder a la universidad, esta ventaja desaparece en la vida adulta.
 
